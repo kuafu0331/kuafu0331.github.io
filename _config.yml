@@ -77,7 +77,7 @@ ga_domain: auto
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "做一个独立思考的明白人"
 sidebar-avatar: /img/pfzhang.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
